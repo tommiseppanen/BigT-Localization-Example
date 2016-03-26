@@ -1,0 +1,9 @@
+Default,Finnish,Swedish
+Good bye,Näkemiin,Vi ses
+Select command:,Valitse toiminto:,Välj alternativ:
+1 - Greet,1 - Tervehdi,1 - Hälsä
+2 - Change language to English,2 - Vaihda kieli englanniksi,2 - Byt språk till engelska
+3 - Change language to Finnish,3 - Vaihda kieli suomeksi,3 - Byt språk till finska
+4 - Change language to Swedish,4 - Vaihda kieli ruotsiksi,4 - Byt språk till svenska
+5 - Quit,5 - Lopeta,5 - Sluta
+Hello!,Terve!,Hej!
